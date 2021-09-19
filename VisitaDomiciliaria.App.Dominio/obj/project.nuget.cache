@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xvIl9QRLXom5/eKtF64O/UtJe9jIHnoYpnq05uWa9Mlfv95Nmbs6fAzzEAQbx5t0++Hf8z1PH7tcvC07HQ/ICQ==",
+  "success": true,
+  "projectFilePath": "C:\\VetPets\\VisitaDomiciliaria.App\\VisitaDomiciliaria.App.Dominio\\VisitaDomiciliaria.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
