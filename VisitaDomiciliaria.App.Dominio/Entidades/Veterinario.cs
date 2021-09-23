@@ -4,6 +4,6 @@ namespace VisitaDomiciliaria.App.Dominio
     {
         public string TarjetaProfesional {get;set;}
         public string Especialidad {get;set;}
-        
+        public Visita Visita {get;set;}
     }
 }

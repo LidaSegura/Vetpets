@@ -5,7 +5,7 @@ namespace VisitaDomiciliaria.App.Dominio
         public string IdGato {get;set;}
         public string Raza {get;set;}
         public string IstMascotas {get;set;}
-
+        public Visita Visita {get;set;}
         //
     }
 }
