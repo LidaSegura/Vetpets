@@ -4,5 +4,7 @@ namespace VisitaDomiciliaria.App.Dominio
     {
         public string Correo {get;set;}
         public string IdMascota {get;set;}
+        public Mascota Mascota {get;set;}
     }
+
 }
