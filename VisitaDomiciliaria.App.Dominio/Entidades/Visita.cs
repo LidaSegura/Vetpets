@@ -12,6 +12,5 @@ namespace VisitaDomiciliaria.App.Dominio
         public string IdGato {get;set;}
         public string Recomendaciones {get;set;}
         public DateTime FechaVisita {get;set;}
-        //
     }
 }
