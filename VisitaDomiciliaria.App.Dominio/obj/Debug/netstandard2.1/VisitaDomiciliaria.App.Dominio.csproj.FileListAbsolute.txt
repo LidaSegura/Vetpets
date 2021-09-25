@@ -1,0 +1,4 @@
+C:\Users\Usuario\Documents\GitHub\Vetpets\VisitaDomiciliaria.App.Dominio\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Dominio.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Vetpets\VisitaDomiciliaria.App.Dominio\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\Vetpets\VisitaDomiciliaria.App.Dominio\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Dominio.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\Vetpets\VisitaDomiciliaria.App.Dominio\obj\Debug\netstandard2.1\VisitaDomiciliaria.App.Dominio.csproj.CoreCompileInputs.cache
