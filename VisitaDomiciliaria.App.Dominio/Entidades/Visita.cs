@@ -1,3 +1,4 @@
+using System;
 namespace VisitaDomiciliaria.App.Dominio
 {
     public class Visita
