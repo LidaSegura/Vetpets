@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using HospiEnCasa.App.Dominio;
+using VisitaDomiciliaria.App.Dominio;
 	namespace VisitaDomiciliaria.App.Persistencia
         {
 			public class AppContext:DbContext
@@ -13,7 +13,7 @@ using HospiEnCasa.App.Dominio;
                 public DbSet<Visita> Visitas {get;set;}
 
                 //Conexión con la base de datos
-                protected override void OnConfiguring(DbContextOptionBuilder optionsBuilder)
+                protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
                 {
                     if (!optionsBuilder.IsConfigured)
                     {
