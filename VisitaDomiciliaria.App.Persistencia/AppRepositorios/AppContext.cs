@@ -1,5 +1,6 @@
-using Microsoft.EntityFramemworkCore;
-		namespace VisitaDomiciliaria.App.Persistencia
+using Microsoft.EntityFrameworkCore;
+using HospiEnCasa.App.Dominio;
+	namespace VisitaDomiciliaria.App.Persistencia
         {
 			public class AppContext:DbContext
             {
